@@ -7,4 +7,4 @@ I used Professor Bianco's plot enhancer through json and kept it in the same fol
 ——————————————————————————————————
 Assignment 2 (file: a2.ipynb)
 ——————————————————————————————————
-I included the screenshots for the reentry program info in the same folder as the program. I pretty much just followed along the comments and steps and generated the p-value for six or more consecutive quarters through z-score test and chi-squre test. I reached the same result for both of these tests.
+I included the screenshots for the reentry program info in the same folder as the program. I pretty much just followed along the comments and steps and generated the p-value for the fourth row through z-score test and the sixth row through chi-squre test. I reached the "null hypothesis not rejected" result for both of these tests.
