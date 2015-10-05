@@ -5,4 +5,4 @@ To run our ipython notebook, one must have the Citibike data of April 2015 in th
 
 Our null hypothesis is that "the ratio of trips > 30 minutes in the >= 35 age group is higher than or equal to the ratio of trips > 30 minutes in the < 35 age group." We think that younger people have a greater tendency to long trips than older people.
 
-Our team collaborated well, and the work was distributed pretty evenly. We worked together in front of the same computer screen. I was involved throughout the whole process: establishing hypothesis, choosing data, cleaning data, grouping data, choosing test, testing hypothesis, and plotting data.
+Our team collaborated well, and the work was distributed pretty evenly. We worked together in front of the same computer screen. I was involved throughout the whole process: establishing hypothesis, choosing data, cleaning data, grouping data, choosing test, testing hypothesis, and plotting data. The parts that I was most heavily involved was cleaning data, grouping data, and plotting data.
