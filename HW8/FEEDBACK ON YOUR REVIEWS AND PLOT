@@ -1,0 +1,70 @@
+the reviews were ok, but on the superficial side 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+the plot is confusing for a few reasons:
+
+unnecessary 3D
+
+dots are too large and having no boundaries or transparency they blend
+
+the tick labels overlap with the axis label. 
+
+the orientation of the axis label is confusing (should be along the axis)
+
+the labels are not clear: what is Reg?
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+jz1894
+============
+
+the choice of a single color colormap is great: it shows gradients intuitively without suggesting anything else. however the color map has a large gradient between the first and  second color (gray to pink) which is misleading as it separates the locations with this color as different, while the range is 0-2: an interval as any other in the carbon emission scale.
+
+the upper range is not bound. it should be shown somewhere for reference what the true range is
+
+the granularity is not explained. an explanation for it does not necessarily belong in the plot but if this were included in a document it should certainly be explained why some regions are very finely sampled and others are note 
+
+alaska and hawaii are nicely included and separated appropriately but he gray lines (though the polygon around hawaii has a lot of sides that are not necessary separating empty space between HW and AK giving the odd impression that HW is surrounded
+
+"Figure" is not needed in the figure title/caption
+
+
+
+jjhall
+============
+
+
+tick and axis labels are too small
+
+the colors indicate the structure in the data nicely but the three shades are not distinguishable by people affected by the most common color blind variety
+
+in general the default 3 datapoints in the legend should be substitute with a single point, as they are reduntant, but in this case since the datapoints are small to allow to see the overlapping structure (presumably) the three datapoints are justified. 
+
+10^0 should be replaced with 1, 10^1 with 10
+
+
+
+
+hkb
+============
+
+
+the time series are of very different order of magnitude. thus all of them are invisible and cluster at the bottom . log y should be used.
+
+why is the plot resolution so low?
+
+there are too many time series on the plot. even with log space the result would likely be confusing. 
+
+for the y ticks a compressed notation for the large numbers should be chosen to enhance readability
+
+good legend and good size for the labels.
+
+consider steps instead of lines joining points for time series
+
+
+
